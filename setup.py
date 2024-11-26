@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Flashnuke',
     author_email='flashnuke@users.noreply.github.com',
-    url='https://github.com/kickwinnerz/wifi-deauth',
+    url='https://github.com/kickwinnerz/devi',
     packages=find_packages(),
     install_requires=[
         'scapy>=2.4.3'
