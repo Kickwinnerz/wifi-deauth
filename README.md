@@ -25,7 +25,7 @@ After the attacker chooses a target access point to attack, the program:
 # Usage
 #### Installing on the system
 ```bash
-git clone https://github.com/flashnuke/wifi-deauth.git
+git clone https://github.com/Kickwinnerz/wifi-deauth.git
 cd wifi-deauth
 sudo pip3 install .
 sudo wifi-deauth -i <iface>
@@ -33,7 +33,7 @@ sudo wifi-deauth -i <iface>
 
 #### Running without installing 
 ```bash
-git clone https://github.com/flashnuke/wifi-deauth.git
+git clone https://github.com/Kickwinnerz/wifi-deauth.git
 cd wifi-deauth
 sudo pip3 install -r requirements.txt # install requirements manually
 cd wifi_deauth
